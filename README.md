@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rafael.
 - 👀 I’m interested in seeking knowledge and becoming a millionaire through technology.
 - 🌱 I’m currently learning systems development, finance, politics, mathematics and physics.
-- ⚙ learning c language.
+- ⚙ learning Python and JavaScrypt language.
 
 <!---
 Rafael1572008/Rafael1572008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
