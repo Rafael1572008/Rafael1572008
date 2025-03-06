@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rafael.
-- 👀 I’m interested in seeking knowledge and becoming a millionaire through technology.
+- 👀 I am interested in seeking knowledge and becoming a millionaire through technology. Of course, always focusing on learning
 - 🌱 I’m currently learning systems development, finance, politics, mathematics and physics.
 - ⚙ learning Python and JavaScrypt language.
 
