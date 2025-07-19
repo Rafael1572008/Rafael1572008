@@ -1,3 +1,3 @@
 ### Olá, Eu sou Rafael Pires
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,mysql,java,html,css,npm,git,docker,c)](https://skillicons.dev)
