@@ -1,11 +1,31 @@
 ### Olá, Eu sou Rafael Pires
 
-<div>
-  <a href="https://github.com/Rafael1572008">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafael1572008&show_icons=true&theme=dracula&rank_icon=github&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael1572008&layout=compact&langs_count=16&theme=dracula"/>
-  </a>
-</div>
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=Rafael1572008&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael1572008&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Rafael1572008&theme=dracula&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
 
 
 ## Tecnologias do meu dia
