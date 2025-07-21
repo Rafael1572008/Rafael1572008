@@ -9,4 +9,6 @@
 
 
 ## Tecnologias do meu dia
-[![My Skills](https://skillicons.dev/icons?i=python,js,mysql,java,html,css,docker,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,mysql,java,html,css,docker,c)](https://skillicons.dev)<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-pires-g/)
