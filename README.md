@@ -1,31 +1,28 @@
 ### Olá, Eu sou Rafael Pires
 
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=Rafael1572008&theme=dark&hide_border=false&include_all_commits=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael1572008&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=Rafael1572008&theme=dark&hide_border=false&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Rafael1572008&theme=dark&hide_border=false&include_all_commits=true"
+    alt="GitHub Stats"
+    width="400"
+  />
+</div>
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael1572008&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+    alt="Top Langs"
+    width="400"
+  />
+</div>
+
+<div align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Rafael1572008&theme=dark&hide_border=false"
+    alt="GitHub Streak"
+    width="400"
+  />
+</div>
 
 
 ## Tecnologias do meu dia
