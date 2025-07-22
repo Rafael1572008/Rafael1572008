@@ -1,5 +1,7 @@
 ### Olá, Eu sou Rafael Pires
 
+## ⚙️ GitHub Analytics
+
 <div align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=Rafael1572008&theme=dark&hide_border=false&include_all_commits=true"
