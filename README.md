@@ -24,3 +24,4 @@
 [![My Skills](https://skillicons.dev/icons?i=python,js,mysql,java,html,css,docker,c)](https://skillicons.dev)<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-pires-g/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pires.rafael8002@gmail.com)
